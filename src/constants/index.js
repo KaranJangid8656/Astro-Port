@@ -1,41 +1,46 @@
 export const myProjects = [
   {
-    id: 1,
-    title: "CompileX",
-    description:
-      "A modern chatbot interface powered by Google's Gemini API,designed to help with programming languages and coding tasks.",
-    subDescription: [
-      "Built using HTML, CSS, and JavaScript on the frontend, and powered by a Python Flask backend, CompileX integrates Google's Gemini AI to offer intelligent, real-time responses to programming queries.",
-      " Users can interact with the assistant through text, voice input, or even by attaching files, enhancing usability across multiple scenarios.",
-      "The backend handles requests using the Gemini API and ensures smooth communication between the user and the AI, while Flask-CORS manages cross-origin resource sharing.",
-      "",
+		id: 1,
+		title: "netflix-UI-clone",
+		description:
+			"A modern, responsive Netflix clone built with Next.js 14, TypeScript, Tailwind CSS, and Shadcn UI components. This project replicates key features and the signature look-and-feel of Netflix's streaming platform.",
+		subDescription: [
+      "Developed using Next.js 14 for server-side rendering (SSR) and TypeScript for robust, type-safe development, this project faithfully recreates the sleek Netflix UI/UX.",
+      "The front-end is styled with Tailwind CSS for utility-first design and features custom, accessible components built with Shadcn UI and Radix UI primitives.",
+      "Key interactive elements include dynamic content rows with horizontal scrolling, a responsive navigation bar, a profile selection screen, and YouTube API integration for video playback.",
+      "This project showcases strong front-end skills in modern styling, component composition, and optimized performance using Next.js Image and lazy loading techniques.",
     ],
-    href: "https://github.com/KaranJangid8656/compileX",
-    logo: "",
-    image: "https://www.cashcowmarketing.co.uk/wp-content/uploads/2024/03/chatbots-a-beginners-guide.webp",
-    tags: [
-      {
-        id: 1,
-        name: "Python",
-        path: "https://icon.icepanel.io/Technology/svg/Python.svg",
-      },
-      {
-        id: 2,
-        name: "Flask",
-        path: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
-      },
-      {
-        id: 3,
-        name: "Gemini API",
-        path: "https://icon.icepanel.io/Technology/svg/HTML5.svg",
-      },
-      {
-        id: 4,
-        name: "CSS",
-        path: "https://icon.icepanel.io/Technology/svg/CSS3.svg",
-      },
-    ],
-  },
+		href: "https://github.com/KaranJangid8656/netflix-UI-clone",
+		logo: "",
+		image: "https://camo.githubusercontent.com/556a53699da03707ea49e735f068f03a38c817a6ddc40118d22de61568d8b3cf/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64783962766d6130332f696d6167652f75706c6f61642f76313735373933303538362f53637265656e73686f745f323032352d30392d31345f3139343330365f7372726776662e706e67",
+		tags: [
+			{
+				id: 1,
+				name: "HTML",
+				path: "https://icon.icepanel.io/Technology/svg/HTML5.svg",
+			},
+			{
+				id: 2,
+				name: "CSS",
+				path: "https://icon.icepanel.io/Technology/svg/CSS3.svg",
+			},
+			{
+				id: 3,
+				name: "TailwindCSS",
+				path: "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
+			},
+			{
+				id: 4,
+				name: "JavaScript",
+				path: "https://icon.icepanel.io/Technology/svg/JavaScript.svg",
+			},
+			{
+				id: 5,
+				name: "TypeScript",
+				path: "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+			},
+		],
+	},
   {
     id: 2,
     title: "Exploratory Data Analysis",
