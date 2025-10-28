@@ -7,7 +7,7 @@ export const myProjects = [
 		subDescription: [
       "Developed using Next.js 14 for server-side rendering (SSR) and TypeScript for robust, type-safe development, this project faithfully recreates the sleek Netflix UI/UX.",
       "The front-end is styled with Tailwind CSS for utility-first design and features custom, accessible components built with Shadcn UI and Radix UI primitives.",
-      "This project showcases strong front-end skills in modern styling, component composition, and optimized performance using Next.js Image and lazy loading techniques.",
+      "This project showcases strong front-end skills in modern styling, component composition"
     ],
 		href: "https://github.com/KaranJangid8656/netflix-UI-clone",
 		logo: "",
