@@ -1,7 +1,7 @@
 export const myProjects = [
   {
 		id: 1,
-		title: "netflix-UI-clone",
+		title: "Netflix-clone",
 		description:
 			"A modern, responsive Netflix clone built with Next.js 14, TypeScript, Tailwind CSS, and Shadcn UI components. This project replicates key features and the signature look-and-feel of Netflix's streaming platform.",
 		subDescription: [
